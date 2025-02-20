@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on Svelte projects
 - 💼 You can reach me at [@johntzulik](https://www.linkedin.com/in/johntzulik/) on LinkedIn
 - 📫 You can reach me at [@johntzulik](https://twitter.com/johntzulik) on twitter
-- 🏠 I'm working from home for [200response](https://200response.mx)
-- 🎯 I wrote some post on a [Medium](https://johntzulik.medium.com/) maybe you are interested 
+- 🏠 I'm working from home for [Loymark](https://loymark.com/)
 
 
 | Rank | Programing Languages |
